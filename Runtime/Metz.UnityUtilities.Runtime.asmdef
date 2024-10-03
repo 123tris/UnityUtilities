@@ -1,7 +1,9 @@
 {
     "name": "Metz.UnityUtilities.Runtime",
     "rootNamespace": "Utilities.Runtime",
-    "references": [],
+    "references": [
+        "GUID:e51ce130d30a84d4bb4db355d8885560"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
